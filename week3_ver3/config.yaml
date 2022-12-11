@@ -1,0 +1,7 @@
+glucose_path: '../glucose.json'
+patients_file_path: 'data/patients.csv'
+conditions_file_path: 'data/conditions.csv'
+encounters_file_path: 'data/encounters.csv'
+observations_file_path: 'data/observations.csv'
+procedures_file_path: 'data/procedures.csv'
+careplans_file_path: 'data/careplans.csv'
